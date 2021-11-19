@@ -22,6 +22,7 @@
   - o outro aqui é para remover os acentos das palavras para a consulta, no input de pesquisa.
   
  * Estrutura 
+ 
  ![Imagem de estrutura](https://i.ibb.co/KsKmgPx/Screenshot-22.png)
  
 ## Project setup
