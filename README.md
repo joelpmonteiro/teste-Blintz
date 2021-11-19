@@ -13,8 +13,10 @@
 - Esse projeto usei a estruturação comum do Vue cli, e acrescentei uma pasta chamada *'Pages' e 'services'* para renderizar somente a pagina ali:
   - A estrutura se da assim:
   - Componentes
+    ```
     * card
-    * Menu   
+    * Menu
+    ```   
   - e ainda dentro de componentes a 1 unico component vue, solto ali, para montar o restante do layout da pagina.
 
 - Pasta *'Services'*
