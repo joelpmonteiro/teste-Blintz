@@ -15,7 +15,7 @@
   - Componentes
     ```
     * card
-    * Menu
+    * Menu (NavBar)
     ```   
   - e ainda dentro de componentes a 1 unico component vue, solto ali, para montar o restante do layout da pagina.
 
