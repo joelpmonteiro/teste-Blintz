@@ -1,10 +1,10 @@
 # blintz
 
 ## Bibliotecas Usada.
-- Nesse projeto foi usado somente o framework vue.js, sem nenhum outro complemento nem mesmo para fazer requisições.
+- Nesse projeto foi usado somente o framework [vue.js](https://vuejs.org/v2/guide/), sem nenhum outro complemento nem mesmo para fazer requisições.
 
 ## Requisição.
-- Para a requisição do dados do projeto usei a biblioteca nativa *'Fetch'* do javascript
+- Para a requisição do dados do projeto usei a biblioteca nativa *'[Fetch](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch)'* do javascript
 
 ## Layout.
 ![Imagem do Layout](https://i.ibb.co/L8PjYQq/Screenshot-21.png)
@@ -21,6 +21,9 @@
   - aqui tem a parte da requisição para api usando fetch e async/await que optei para usar ao inves de then e catch do padrao comun do uso do fetch
   - o outro aqui é para remover os acentos das palavras para a consulta, no input de pesquisa.
   
+ * Estrutura 
+ ![Imagem de estrutura](https://i.ibb.co/KsKmgPx/Screenshot-22.png)
+ 
 ## Project setup
 ```
 npm install
