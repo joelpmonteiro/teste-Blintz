@@ -52,7 +52,7 @@ export default {
 .card {
   box-shadow: 0 1px 6px 0 rgba(0, 0, 0, 0.2);
   margin: auto;
-  max-width: 200px;
+  max-width: 180px;
   max-height: 100%;
   padding: 2%;
   text-align: center;

@@ -9,9 +9,11 @@
       aria-haspopup="true"
       aria-controls="menu"
       aria-expanded="false"
+      type="button"
       @click.prevent="toggleMenu"
     >
       Menu
+
       <span id="hamburger"></span>
     </button>
 
