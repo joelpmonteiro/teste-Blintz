@@ -13,6 +13,10 @@
   .icone {
     margin-top: -7% !important;
   }
+
+  .card {
+    max-width: 12.5%;
+  }
 }
 
 @media (max-width: 600px) {
