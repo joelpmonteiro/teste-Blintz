@@ -1,5 +1,15 @@
 # blintz
 
+## Bibliotecas Usada.
+- Nesse projeto foi usado somente o framework vue.js, sem nenhum outro complemento nem mesmo para fazer requisições.
+
+## Requisição
+- Para a requisição do dados do projeto usei a biblioteca nativa *'Fetch'* do javascript
+
+## Layout
+![Imagem do Layout](https://i.ibb.co/L8PjYQq/Screenshot-21.png)
+
+
 ## Project setup
 ```
 npm install
